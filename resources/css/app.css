@@ -1,0 +1,8 @@
+.modal-body{
+    height: 500px !important;
+  }
+  
+  .modal-content{
+    width: 700px !important;
+    margin-left: -100px !important;
+  }
