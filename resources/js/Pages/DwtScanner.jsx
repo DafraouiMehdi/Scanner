@@ -115,7 +115,7 @@ const DwtScanner = (props) => {
       Dynamsoft_OnReady();
     });
 
-    Dynamsoft.DWT.ProductKey = 't01868AUAACDdYDYFjLpUcEjKuwvyXUOm71zDn+4Jqnwdkfh+szLVBdNTIF9dKPdbb5VoD4NBLx1Fxl9K1NdzY8NOYEs8m1Q/pxo4rb7TUN/JBk49cgLvJUzrbXfLurxAM/BZANufww6wBNZcTsA3bLnRA+QB5gDm5UAPuN3F9fAF3J3powvNTjVwWn1nWSB1nGzg1CPnVCB9QjdMux3WAmH5cg6APMBuAW4f2aVAcAbkAXYBRKkPphEhlSxy';
+    Dynamsoft.DWT.ProductKey = 't01898AUAAK7bP4+lhrA7PBqU4WKt6V1ilM19G22aXTJcVdR33xOiT7xCkAhXMQYzYVvl38dMs2Pq9j2KcHdVDfU1Z7YbRB23X05WcFp5p0l5Jyo4eckp0s/DkHZbv/OmCZyA+wzYehxWADmQatkBj2apDR5ADzAHMK8GeMDpKo4/n7IPSP71nw2NTlZwWnlnHpAyTlRw8pJzDEgbRIdxtUMKCPKTswHoAXYKYLnIDgGRPUAPsAPAVlURug/U4zIL';
     Dynamsoft.DWT.ResourcesPath = '/dwt-resources';
 
     Dynamsoft.DWT.Containers = [{

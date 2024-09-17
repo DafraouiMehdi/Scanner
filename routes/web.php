@@ -12,4 +12,4 @@ use App\Http\Controllers\DocumentController;
 //     return Inertia::render('ModalComponents');
 // });
 
-// Route::resource('/ScannerPiece' , DocumentController::class);
+Route::resource('/ScannerPiece' , DocumentController::class);
